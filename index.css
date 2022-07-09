@@ -1,3 +1,11 @@
 p{
     color:brown;
+    text-align: center;
+}
+h1{
+    background-color: rgba(84, 130, 39, 0.479);
+    
+    height: 50px;
+    width: 500px;
+   
 }
